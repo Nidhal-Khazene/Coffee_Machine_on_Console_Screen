@@ -1,5 +1,6 @@
 # Coffee Machine Simulator
 ![Coffee Machine](starter.png)
+
 A Python-based coffee machine simulator that allows users to order different types of coffee, manage resources, and handle monetary transactions.
 
 ## Features
